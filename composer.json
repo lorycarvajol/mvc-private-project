@@ -1,0 +1,16 @@
+{
+    "name": "stagiaire/mvc",
+    "authors": [
+        {
+            "name": "Carvajol lory",
+            "email": "66648964+maclory73@users.noreply.github.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+        "router\\":"routes/"
+
+    } 
+    },
+    "require": {}
+}
